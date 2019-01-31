@@ -65,7 +65,7 @@ body {
       }
   
   .box {
-    background-color: #D5F8E8;
+    background-color: #FFFFDD;
     color: #3D241F;
     border-radius: 5px;
     padding: 25px;
@@ -74,11 +74,13 @@ body {
   
   .header,
   .footer {
-    background-color:#AAF0D1;
+    background-color:#FFBBDD;
+    border-bottom: 0.2em dashed #ccffee;
+    color:#ccffee;
   }
   
   .sidebar2 {
-    background-color: #AAF0D1;
+    background-color: #FFFFDD;
     color: #3D241F;
   }
   
