@@ -212,6 +212,7 @@ body {
             flex: 1 0 auto;
   }
   .menu a:first-child {
+    border-left: none;
     border-top: none;
   }
 }
