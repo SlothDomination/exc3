@@ -64,13 +64,13 @@ body {
 .menu a {
     text-decoration: none;
     color: #FFBBDD;
-    border-bottom: 1px solid white;
+    border-bottom: 1px solid #FFBBDD;
     font-size: 1.5rem;
     padding: 0.5rem;
 }
 
 .menu a:first-child {
-    border-top: 1px solid white;
+    border-top: none;
 }
 
   .sidebar {
@@ -169,7 +169,7 @@ body {
         }
         .menu a {
             border: none;
-            border-left: 1px solid white;
+            border-left: 1px solid #FFBBDD;
             /*Propriété comme item flex - peut s'étirer en largeur*/
             flex: 1 0 auto;
         }
